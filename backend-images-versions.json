@@ -3,7 +3,7 @@
   "INIT_SERVICE_IMAGE": "hywit/desktop:init-service-1.0.0",
   "HYWIT_CORE_IMAGE": "hywit/desktop:hywit-core-1.0.0",
   "BASE_MCP_SERVER_IMAGE": "hywit/desktop:base-mcp-server-1.0.0",
-  "HTTP_ENDPOINTS_SERVER_IMAGE": "hywit/desktop:http-endpoints-server-1.0.0",
+  "HTTP_ENDPOINTS_SERVER_IMAGE": "hywit/desktop:http-endpoints-server-1.0.1",
   "AGENT_DB_SECRETS_IMAGE": "hywit/desktop:agent-db-secrets-1.0.0",
   "NOTEBOOK_KERNEL_IMAGE": "hywit/desktop:agent-ide-notebook-1.0.0"
 }
